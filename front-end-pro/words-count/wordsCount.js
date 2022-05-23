@@ -1,6 +1,3 @@
-wordsCount('Hello World!');
-
-
 /**
  * Count number of words in sentence
  *
@@ -10,3 +7,5 @@ wordsCount('Hello World!');
 function wordsCount(str) {
   return str.split(' ').length;
 }
+
+wordsCount('Hello World!');
