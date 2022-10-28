@@ -5,8 +5,8 @@
  * @param {number} b
  * @returns {number}
  */
-function calc(a, b) {
+function index(a, b) {
   return a + b;
 }
 
-console.log(calc(8, 9));
+console.assert(index(8, 9) === 17);

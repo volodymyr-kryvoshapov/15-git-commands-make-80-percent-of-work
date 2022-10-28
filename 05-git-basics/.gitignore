@@ -1,0 +1,8 @@
+# Web Storm directory
+.idea
+
+# Visual Studio directory
+.vs
+
+# Директория с модулями nodejs
+node_modules
