@@ -52,6 +52,8 @@ ssh -T git@github.com
 
 ## [Добавление дополнительного ключа в ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent)
 
+https://gist.github.com/Jonalogy/54091c98946cfe4f8cdab2bea79430f9
+
 Когда вы генерируете новый приватный ключ он должен быть добавлен в SSH agent!
 
 Before adding a new SSH key to the ssh-agent to manage your keys, you should have checked for existing SSH keys and generated a new SSH key. When adding your SSH key to the agent, use the default macOS ssh-add command, and not an application installed by macports, homebrew, or some other external source.
