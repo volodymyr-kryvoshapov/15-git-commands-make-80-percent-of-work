@@ -131,10 +131,12 @@ So your git-personal.conf could look like this now.
   sshCommand = "ssh -i  ~/.ssh/id_ed25519"
 ```
 
-Above in one line command:
+Above in 3 line command:
 
 ```bash
 git config core.sshCommand 'ssh -i ~/.ssh/id_ed25519'
+git config user.name user1
+git config user.email user1@gmail.com
 ```
 
 
