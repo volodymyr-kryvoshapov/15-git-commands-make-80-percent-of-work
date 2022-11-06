@@ -52,4 +52,3 @@ ssh -T git@github.com
 
 ## Дополнительно:
 - [Работа с несколькими Github учетными записями на MacOS](./handling-multiple-github-accounts.md)
-- [Работа с ssh-agent](./ssh-agent.md)
