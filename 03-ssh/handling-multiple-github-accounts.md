@@ -60,6 +60,8 @@ Host github.com-user2
 
 Replace `user1` and/or `user2` with your GitHub usernames/identification-handlers
 
+`user1` и `user2` не обязательно должны совпадать с именем пользователя, это могут быть абсолютно произвольные идентификаторы, главное чтоб они совпадали с хостом `github.com-user1` в `~/.ssh/config`.
+
 ## 4. Go ahead to git clone your respective repository
 
 `git clone git@github.com-user1:user1/your-repo-name.git`
