@@ -46,6 +46,7 @@ git status
 
 # Visual Studio directory
 .vs
+.vscode
 
 # Директория с модулями nodejs
 node_modules
