@@ -5,6 +5,7 @@
 - git revert
 - git reset
 - git stash
+- git restore
 
 
 ## Памятка удобных команд
