@@ -6,6 +6,7 @@
 - git reset
 - git stash
 - git restore
+- git rm
 
 
 ## Памятка удобных команд
